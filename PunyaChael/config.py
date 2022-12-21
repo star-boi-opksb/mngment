@@ -16,15 +16,15 @@ class Config(object):
 
     API_ID = 11409845  # integer value, dont use ""
     API_HASH = "76552be60c1cd08d4c0bac74cc4ab5ff"
-    TOKEN = "5364794116:AAH55YdMlCJ0ZAmDRaoKux0Fkwj0TKOKSl4"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5965554241:AAGrlgiUT9H9YDQFZ6iNIldlqhwJOL7QxWI"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 2135624454  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "KenalSayaaa"
+    OWNER_USERNAME = "its_star_boi"
     SUPPORT_CHAT = "logsmenfessss"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001692951318
+        -1001621682412
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001712376085
+        -1001621682412
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
